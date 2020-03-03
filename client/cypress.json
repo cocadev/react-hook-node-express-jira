@@ -4,5 +4,6 @@
   "viewportWidth": 1440,
   "env": {
     "apiBaseUrl": "http://localhost:3000"
-  }
+  },
+  "projectId": "ue137h"
 }
